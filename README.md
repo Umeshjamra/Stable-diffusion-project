@@ -153,7 +153,7 @@ images = gan.generate_from_text("cyberpunk city at night", n_images=4)
 
 ## 📦 Dataset
 
-> **Google Drive Link**: [Insert your Google Drive link here]
+> **Google Drive Link**:
 
 The dataset used includes:
 - Demo corpus of 8 diverse text prompts for embedding/GAN training demonstration
@@ -198,6 +198,5 @@ The dataset used includes:
 
 ## 👤 Author
 
-**[Your Name]**  
-Internship at [Company Name]  
+**[UMESH JAMRA]**  
 Project built: 2025
